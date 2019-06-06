@@ -1,0 +1,10 @@
+# folders to ignore
+Gnani-API/
+Videos/
+myenv/
+DeepSegment/
+deep_segment_virtualenv/
+.ipynb_checkpoints/
+
+# files to ignore
+.DS_Store
