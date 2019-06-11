@@ -1,0 +1,309 @@
+2018-11-18 00:18:00,212:WARNING: From /anaconda3/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:430: calling reverse_sequence (from tensorflow.python.ops.array_ops) with seq_dim is deprecated and will be removed in a future version.
+Instructions for updating:
+seq_dim is deprecated, use seq_axis instead
+2018-11-18 00:18:00,214:WARNING: From /anaconda3/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:454: calling reverse_sequence (from tensorflow.python.ops.array_ops) with batch_dim is deprecated and will be removed in a future version.
+Instructions for updating:
+batch_dim is deprecated, use batch_axis instead
+2018-11-18 00:18:02,886:INFO: Initializing tf session
+2018-11-18 00:18:04,945:INFO: Reloading the latest trained model...
+2018-11-18 00:18:04,946:INFO: Restoring parameters from /Users/bedapudi/Downloads/deepsegment_data/deepsegment_data/model.weights/
+2018-11-18 00:19:41,303:WARNING: From /anaconda3/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:430: calling reverse_sequence (from tensorflow.python.ops.array_ops) with seq_dim is deprecated and will be removed in a future version.
+Instructions for updating:
+seq_dim is deprecated, use seq_axis instead
+2018-11-18 00:19:41,304:WARNING: From /anaconda3/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:454: calling reverse_sequence (from tensorflow.python.ops.array_ops) with batch_dim is deprecated and will be removed in a future version.
+Instructions for updating:
+batch_dim is deprecated, use batch_axis instead
+2018-11-18 00:19:43,786:INFO: Initializing tf session
+2018-11-18 00:19:45,489:INFO: Reloading the latest trained model...
+2018-11-18 00:19:45,490:INFO: Restoring parameters from /Users/bedapudi/Downloads/deepsegment_data/deepsegment_data/model.weights/
+2019-06-11 20:39:43,438:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-06-11 20:39:44,450:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:140: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-06-11 20:39:44,452:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:145: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-06-11 20:39:44,454:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-06-11 20:39:44,466:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-06-11 20:39:44,692:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:156: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-06-11 20:39:46,757:INFO: Initializing tf session
+2019-06-11 20:39:48,835:INFO: Reloading the latest trained model...
+2019-06-11 20:39:48,836:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-06-11 20:39:48,838:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 20:41:14,329:DEBUG: diff parser start
+2019-06-11 20:41:14,330:DEBUG: line_lengths old: 1; new: 1
+2019-06-11 20:41:14,331:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-06-11 20:41:14,333:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-11 20:41:14,335:DEBUG: diff parser end
+2019-06-11 20:41:17,320:DEBUG: diff parser start
+2019-06-11 20:41:17,322:DEBUG: line_lengths old: 1; new: 1
+2019-06-11 20:41:17,323:DEBUG: -> code[replace] old[1:1] new[1:1]
+2019-06-11 20:41:17,324:DEBUG: parse_part from 1 to 1 (to 0 in part parser)
+2019-06-11 20:41:17,325:DEBUG: diff parser end
+2019-06-11 20:58:49,947:INFO: Initializing tf session
+2019-06-11 20:58:49,947:INFO: Initializing tf session
+2019-06-11 20:58:51,755:INFO: Reloading the latest trained model...
+2019-06-11 20:58:51,755:INFO: Reloading the latest trained model...
+2019-06-11 20:58:51,757:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 20:58:51,757:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 21:03:48,792:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-11 21:03:48,792:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-11 21:03:48,794:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-11 21:03:48,794:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-11 21:03:48,795:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-11 21:03:48,795:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-11 21:03:48,796:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-11 21:03:48,796:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-11 21:09:52,560:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-06-11 21:09:53,425:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:140: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-06-11 21:09:53,427:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:145: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-06-11 21:09:53,430:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-06-11 21:09:53,438:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-06-11 21:09:53,671:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:156: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-06-11 21:09:55,754:INFO: Initializing tf session
+2019-06-11 21:09:57,665:INFO: Reloading the latest trained model...
+2019-06-11 21:09:57,666:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-06-11 21:09:57,668:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 21:10:59,896:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-06-11 21:11:00,473:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:140: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-06-11 21:11:00,476:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:145: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-06-11 21:11:00,478:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-06-11 21:11:00,486:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-06-11 21:11:00,725:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:156: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-06-11 21:11:02,814:INFO: Initializing tf session
+2019-06-11 21:11:05,071:INFO: Reloading the latest trained model...
+2019-06-11 21:11:05,072:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-06-11 21:11:05,075:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 21:11:22,394:INFO: Initializing tf session
+2019-06-11 21:11:29,520:INFO: Reloading the latest trained model...
+2019-06-11 21:11:29,522:INFO: Restoring parameters from deepsegment_eng_fra_ita_v1/deepsegment_eng_fra_ita_v1/model.weights/
+2019-06-11 21:12:37,180:DEBUG: diff parser start
+2019-06-11 21:12:37,181:DEBUG: line_lengths old: 2; new: 2
+2019-06-11 21:12:37,182:DEBUG: -> code[equal] old[1:1] new[1:1]
+2019-06-11 21:12:37,184:DEBUG: parse_part from 1 to 2 (to 1 in part parser)
+2019-06-11 21:12:37,185:DEBUG: -> code[replace] old[2:2] new[2:2]
+2019-06-11 21:12:37,186:DEBUG: diff parser end
+2019-06-11 21:21:28,993:INFO: Initializing tf session
+2019-06-11 21:21:28,993:INFO: Initializing tf session
+2019-06-11 21:21:30,915:INFO: Reloading the latest trained model...
+2019-06-11 21:21:30,915:INFO: Reloading the latest trained model...
+2019-06-11 21:21:30,918:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 21:21:30,918:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 21:25:23,151:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-11 21:25:23,151:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-11 21:25:23,152:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-11 21:25:23,152:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-11 21:25:23,153:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-11 21:25:23,153:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-11 21:25:23,155:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-11 21:25:23,155:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-11 21:25:30,497:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-06-11 21:25:31,404:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:140: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-06-11 21:25:31,407:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:145: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-06-11 21:25:31,414:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-06-11 21:25:31,426:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-06-11 21:25:31,668:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:156: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-06-11 21:25:33,804:INFO: Initializing tf session
+2019-06-11 21:25:35,891:INFO: Reloading the latest trained model...
+2019-06-11 21:25:35,892:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-06-11 21:25:35,894:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 21:27:37,921:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-11 21:27:37,922:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-11 21:27:37,923:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-11 21:27:37,923:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-11 21:27:44,225:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-06-11 21:27:44,789:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:140: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-06-11 21:27:44,791:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:145: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-06-11 21:27:44,793:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-06-11 21:27:44,801:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-06-11 21:27:45,026:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:156: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-06-11 21:27:47,085:INFO: Initializing tf session
+2019-06-11 21:27:49,221:INFO: Reloading the latest trained model...
+2019-06-11 21:27:49,221:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-06-11 21:27:49,224:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 21:39:56,398:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-11 21:39:56,399:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-11 21:39:56,400:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-11 21:39:56,401:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-11 21:40:02,772:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-06-11 21:40:03,351:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:140: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-06-11 21:40:03,354:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:145: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-06-11 21:40:03,356:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-06-11 21:40:03,364:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-06-11 21:40:03,614:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:156: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-06-11 21:40:05,701:INFO: Initializing tf session
+2019-06-11 21:40:07,694:INFO: Reloading the latest trained model...
+2019-06-11 21:40:07,696:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-06-11 21:40:07,698:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 22:02:15,632:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-11 22:02:15,634:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-11 22:02:15,635:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-11 22:02:15,636:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-11 22:02:22,021:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-06-11 22:02:22,620:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:140: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-06-11 22:02:22,622:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:145: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-06-11 22:02:22,624:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-06-11 22:02:22,633:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-06-11 22:02:22,864:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:156: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-06-11 22:02:25,039:INFO: Initializing tf session
+2019-06-11 22:02:27,034:INFO: Reloading the latest trained model...
+2019-06-11 22:02:27,035:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-06-11 22:02:27,038:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 22:04:49,579:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-11 22:04:49,581:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-11 22:04:49,582:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-11 22:04:49,583:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-11 22:30:41,344:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-11 22:30:41,346:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-11 22:30:41,347:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-11 22:30:41,348:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-11 22:30:47,646:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-06-11 22:30:48,211:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:140: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-06-11 22:30:48,212:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:145: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-06-11 22:30:48,214:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-06-11 22:30:48,223:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-06-11 22:30:48,461:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:156: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-06-11 22:30:50,537:INFO: Initializing tf session
+2019-06-11 22:30:52,804:INFO: Reloading the latest trained model...
+2019-06-11 22:30:52,805:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-06-11 22:30:52,808:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 22:32:33,560:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-11 22:32:33,561:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-11 22:32:33,562:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-11 22:32:33,563:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
+2019-06-11 22:32:39,856:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-06-11 22:32:40,441:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:140: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0.
+2019-06-11 22:32:40,443:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:145: bidirectional_dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.Bidirectional(keras.layers.RNN(cell))`, which is equivalent to this API
+2019-06-11 22:32:40,445:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:443: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2019-06-11 22:32:40,453:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-06-11 22:32:40,698:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/seqtag/ner_model.py:156: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-06-11 22:32:42,801:INFO: Initializing tf session
+2019-06-11 22:32:44,882:INFO: Reloading the latest trained model...
+2019-06-11 22:32:44,883:WARNING: From /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2019-06-11 22:32:44,885:INFO: Restoring parameters from deepsegment_eng_v1/deepsegment_eng_v1/model.weights/
+2019-06-11 22:36:17,496:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-06-11 22:36:17,497:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
+2019-06-11 22:36:17,498:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
+2019-06-11 22:36:17,499:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.

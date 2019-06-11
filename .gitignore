@@ -2,8 +2,6 @@
 Gnani-API/
 Videos/
 myenv/
-DeepSegment/
-deep_segment_virtualenv/
 
 # files to ignore
 .DS_Store
