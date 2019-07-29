@@ -1,0 +1,8 @@
+{
+	"data_folder": "/",
+	"dir_output": "deepsegment_eng_v1/deepsegment_eng_v1/",
+	"nepochs": 15,
+	"batch_size": 32,
+	"dropout": 0.5,
+	"nepoch_no_imprv": 3
+}
