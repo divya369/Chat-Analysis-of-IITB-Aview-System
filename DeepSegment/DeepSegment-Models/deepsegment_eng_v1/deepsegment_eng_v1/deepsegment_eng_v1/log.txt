@@ -1,8 +1,0 @@
-2019-06-11 21:08:32,920:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
-2019-06-11 21:08:32,920:ERROR: Invalid alias: The name clear can't be aliased because it is another magic command.
-2019-06-11 21:08:32,921:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
-2019-06-11 21:08:32,921:ERROR: Invalid alias: The name more can't be aliased because it is another magic command.
-2019-06-11 21:08:32,922:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
-2019-06-11 21:08:32,922:ERROR: Invalid alias: The name less can't be aliased because it is another magic command.
-2019-06-11 21:08:32,923:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
-2019-06-11 21:08:32,923:ERROR: Invalid alias: The name man can't be aliased because it is another magic command.
