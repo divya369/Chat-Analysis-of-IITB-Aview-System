@@ -2,6 +2,9 @@
 Gnani-API/
 Videos/
 myenv/
+question-pairs-dataset/
+positive-and-negative-sentences/
 
 # files to ignore
 .DS_Store
+glove.twitter.27B.100d.txt
