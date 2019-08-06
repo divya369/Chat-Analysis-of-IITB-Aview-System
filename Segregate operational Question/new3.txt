@@ -1,0 +1,2061 @@
+can you hear us
+NO
+HELLO SIR
+can you hear now?
+NO
+can you hear now?
+NO
+please check your side sir our audio is being transmited properly
+there seems to be audio video problem sir is leaving now but please be online we will check what the problem is
+please ask your technical person to be available i will login from another machine in 1 min
+iam connecting your through teamviewr again
+give your teamviewr password
+238592083 & password 2953
+error message here
+what error
+Cannot add or update a child row: a foreign key constraints fail
+ya that came earlier in aview but are you able to record your own audio in your PC
+sir not able to your side audio
+sir all connection are properly connected
+forget aview first record your audio in your PC and see if it is properly recorded and your are able hear it
+i was just testing with another center, there is no session now
+can you hear us
+please check your settings if you cant hear us
+we are live and audible
+if you cant hear us please check your settings
+sir in your new version adobe air needs to update or not
+cant hear you sir
+what abt now sir
+yes i can hear you
+i am unable hear u r voice
+have you connected any speakers or headphone mic
+video is ok but its not audible
+it is not audible
+yes you are audible and visible
+its ok
+ok
+ok fine
+ok thank you
+wait
+try reinstalling the software
+OK sir I will do this. can I call after some time?
+ok
+iam there till 5.30
+thanks. few minutes please
+is everything connected according to the guidelines file
+please go through it again and see proper connections
+your audio right now is not coming from the mic you are holding
+it is coming from a podium mic or some other mic
+do you have audio mixer and amplifier
+as required for this type of sessions
+can you show through camera your audio mixer and amplifier
+yes. we have audio mixer
+ok
+and amplifier also\
+but the connections and microphone selection setttings are not proper
+you need to do it according to the A-VIEW guidelines file
+it is there on our website from where you downloaded  A-VIEW and also mailed to you as pdf
+NO
+See what iam saying is you are audible but from the mic which you spoke right now,
+But that is not how it will work in A-VIEW sessions
+your audio should come from a handheld mic which can be passed to everyone in the classroom
+So how willl igt work??
+The MIC from which audio is coming right now is a conference MIC from which i can hear everything in the room everyones audio all the background noise at the same time
+and it also generates echo
+In A-VIEW settings you have selected that conference MIC, you need to select the handheld mic then your audio will come from that mic
+sir
+sheere is setting option
+in a view
+Please Read carefully, In A-VIEW settings where you silect Microphone when you press start button and select your camera and MIcrophone
+in that setting
+If you follow step by step instructions given in the guidelines file your problem will be solved
+please call on 25764924
+please call on 25764924
+sir pl check our audio
+now
+we have make some changes in audio settings
+http://www.nmeict.iitb.ac.in/speedtest/
+just test on this link
+now
+i want you to test it in your browser
+and keep the camera on the projector screen so that i can also see
+ya now test your bandwidth
+Do you have a camera stand or it is just kept on a podium
+it is showing to update your adobe flash player
+when you open that link on right hand side it asks you to update client
+Check the speed now in browser
+i cant see your video is freezed
+still video is freezed
+You dont have camera stand?
+You have a camera stand or not?
+we have
+the way you are panning and handeling the camera it seems its not on a stand right now
+wait i'll come back to you
+no audio from your side
+i cant hear you
+you need to check your mic or mic settings
+when you press start there is a pretesting button to check your audio and video do that and i'll get back to you
+you audio connection is not proper make sure you do it according to the connections diagram provided to you
+you are not getting my voice properly and the audio is also echoing
+which camera r u using
+ok sir
+ok
+sony
+handy cam hd camera
+please check the audio connections and make sure they are done according to the connections diagram
+i'll get back to you
+sure sir..
+no audio video from your side
+no audio video
+no audio from your side
+we have pretested audio and video its ok
+not getting audio now
+no audio video from your side
+it is ok now but make sure you use wireless mic because with this mic there is lot of echo
+ok
+but iam not getting any audio video from your side
+cant hear your
+cant hear you sir
+if you are not able to hear me then problem at your end
+i can hear you
+your audio connection is not proper
+i cant hear you
+we can here u
+we having problem of audio
+please rectify that i will get back to your
+we are not able to rectify please help us
+we connected mic according to diagram
+are you gettting my audio video clearly without delay
+yes sir
+if not getting audio clearly please make sure you have not updated adobe air
+please check that
+the echo test in aview is not for the echo cancellation, for this echo cancellation you need to do connections according to the connections diagram provided to you in aview guidelines file
+Go through the connections diagram in aview guidelines file see if everything is in proper place, and do testing tomorrow
+it is ok if it is not done today
+see what you do is Go through the connections diagram in aview guidelines file see if everything is in proper place, and do testing tomorrow
+you need to do all the checklist properly,
+ok
+wait iam restarting aview there is problem at my end
+cant hear you sir
+some problem in your mic or connections
+you cant hear me
+no si
+no sir
+and our sir
+can u hear me sir
+if you are not able to hear me then check your connections some problem at your end
+no audio from your side please check your connections
+will check and come back to you
+video is ok?
+no audio from your side
+now it is ok?
+mam i guess you are not able to hear me properly
+it it ok sir?
+the problem is rectified now
+i cant hear you
+no audio from your side
+sir is video is clear
+video is ok
+but no audio
+sir sir the mick is not workin i will try
+please pre test your audio in aview settings
+then will test you again
+is it audiable
+no
+whatever i spoke a minute back it is reaching you now
+are you doing the testing from the classroom where you will conduct the workshop
+hellooooo
+we are in other classroom
+hello
+but the testing has to be done from the classroom where you will conduct the workshop
+ok sir we will reach within five minutes
+thank you sir
+no audio
+settings madhe nahi tar connections madhe problem aasel sir
+ok
+this is just for the Remote centers to test their connections
+if you cant hear me then there some problem at your end
+if u cant hear me then there is some problem at ur end
+and also check if your adobe air is not updated by any chance
+YOUR BANDWIDTH SEEMS TO BE LOW
+yes your voice is coming
+hellonhai
+sorry
+hello hai
+how to connect A VIEW?and When?
+if you are not able to hear me then problem in your bandwidth or you might have updated adobe air or there is some connection problem
+hai sir
+please test my video ofA_VIEW
+no video from your side
+Please test our video
+Are you able to see our video
+select iitbombay
+for interaction
+had selected
+sir am able to see my document folder
+can you hear me
+but  sameer sir file not their
+is file with sameer sir?
+Can you hear me
+as he is not came yet to center
+no
+select iitb
+select iitbombay for interaction
+We are ready
+its better
+ignore if only few are saying low
+where is ppt
+not in my documents
+MAKE THE REMOTE CENTERS REALISE THERE ANSWERS ARE ALSO BEING SEEN BY YOU SO THAT THEY DONT FEEL DISCONNECTED
+YOU NEED TO RIGHT CLICK ON DOCUMENT AND PRESS ALLOW DOWNLOAD
+NOT THE CENTERS YOU
+YOU HAVE TO DO IT FROM YOUR SIDE FIRST, RIGHT CLICK AND ALLOW DOWNLOAD
+YOU HAVE TO ALLOW THE DOWNLOAD FIRST FROM YOUR SIDE
+YOU HAVE TO ALLOW THE DOWNLOAD FIRST FROM YOUR SIDE
+YOU CAN SELECT THEM FROM YOUR SIDE
+SIR IS THERE YOU CAN SELECT THEM NOW
+CENTER NO. IS 1105
+THERE IS A SEARCH OPTION ABOVE USER LIST
+TYPE 1105
+pls upload 2nd slide of sameer sir
+SLIDE NAME?
+peer review
+pls upload
+I NEED TO TAKE BACK CONTROL TO UPLOAD SLIDE
+ok
+DONE
+ok
+thank
+HE IS THERE
+sameer sir can add
+we have some query
+Hello Sir
+Please statr your video
+please sir , i am setting it
+your video is not visible
+please check
+now i can see you
+Once i was able to hear you, my voiice is audiable or not
+i am able to hear you
+OK , Sir,
+Sir if you have any query then kindly let me know
+Moodle , i have downloaded, i want to use it for my class. But my downloaded one is showing that any time they can removed my account, pl. let me know where i can get free/open source moodle.
+Sir, please try moodlecloud.com
+i am sharing my screen with you
+OK, Thanks
+are you able to see
+Yes
+Are you gettng my voice,now Sir
+Weekly assignment i am uploading in my website asWhats about evaluation
+they are going to start it soon
+It will be peer review
+Some problem in my microphone, not givng good response
+okay sir
+Whats abou other mantee, at least i shall able to here others discussion. Is there any one else i can hear.
+yes sir
+i too waiting for them
+OK Sir,
+this session is needed to clarify our doubts
+please check your whatsapp. i just sent a snap
+you can write here
+hi
+are you able to see Biswatrish
+yes
+are you able to see Somnath
+Sir, will you start interaction?
+Sir , I am sukhen Das , faculty in dept. of cse at techno india ,salt lake
+I have some problem face to interact with you.
+I am able to see you.
+Fdp is good for me and with my career.
+I can not see u
+if you want to share your experience, use general chat.
+good evening madam
+in week2, video upload in wordpress is not published. may i know the reason madam
+Hello Madam. Good Morning
+Very Good Morning
+Presently, Aview says DB
+error. Testing Audio Video
+Thats Ok
+from kalasalingam university
+yes sir
+i have enabled video wall also
+Am unable to hear your voice..So plz  text
+mam i am ale to see ur face
+thanks madam
+i am unable to  hear your voice
+Hi
+Do you have audio problem?
+no madam
+mam i heard your voice when you speak first
+not hearing your conversation
+Mam Could u  plz solve my sound issue ?
+presently talking to another user
+hi
+hi sir
+wait have video start kariyeee
+can we have a meeting
+Thats fine Mam. Let me in the cal.
+ok sir
+sir you are from which college?
+wait let me explore this a view
+Hi
+hi
+hi
+hello ma'am
+hii
+hi
+hi madam are you online
+mam are you interact mentor
+no video of presenter Rajiv
+yes same problem
+mam
+here also same problem
+we are nearing session end
+madam your video not seen
+Madam,your vieo not seen,pl start the video
+video not seen
+madam ,the grading for journal will be done later
+once the grading starts you will be able to see them
+welcome
+submission and evaluation of website will be in fiifth week .they will ask for it
+madam start the video from left top corner
+madam switch on the audio
+ask you question
+Sir can we consider online quiz conduction as a part of ICT?
+Hi Vikas U R not conected with video
+ok Thank you sir !!
+Yes,this can be done through A-view,moodle or google form
+I am online, and try to intrect
+Am I visible to you?
+Can you raise the hand from your machine
+areyou able to hear me
+Sir I have received your first mail but I have not received mail with Google form
+ok i will send once more.you can also check the spam mails
+ok
+madam please check your video
+please restart the video
+both audio and video not available from your side.can you see me?is my audio visible?
+heard?
+Sir I have filled Google form
+Video is not getting connected
+switch on the video at top left corner of a view
+sir I can hear you
+can you see me
+yes sir
+video not seen ,
+video not seen
+good afternon,
+your audio video not clear.can you see me?am i audible?
+good afternoon
+sir, start you video
+not able to listen anything
+am i audible
+ok. able to listen you sir.
+your audio is interupted
+hello
+yes
+pl start vide
+video
+left top corner there is a button
+audio is clear sir
+am i seen
+no
+there can be insufficient band width
+now you are visible
+yes
+start you video
+please ask your question on chat
+video not seen,no audio
+hello sir
+there is some problem in connection
+ok .you can ask any question if required
+I can see u but on my side only back screen is there
+you have to check the web cam .it may be also due to band width problem
+ok sir\
+can i post my question in chat room
+yes
+did you check audio - video
+I did but I cannot hear you
+let me connect again
+I can see you in the video
+But audio is not there
+it says user has not t selected video
+Can you hear me
+no
+hello mam this is Gokulakrishnan
+hello sir
+sir try hand raise
+hi
+i m not able to see u
+I cant hear your voice madam
+hello sir
+no idea sir
+I am trying..
+sir u der??
+publish your video
+can you hear me sir
+no mam
+check av once
+please let me know how to use A View for quiz
+you have an option on top as live quiz
+check it
+if you have qestion paper u can use it directly
+otherwise u can create QP
+ok
+did you check audio video again mam
+check audio video again madam
+how to check
+i can see you
+once you login toa-view at the left top corner you can see video
+clickon it
+did u check it madam
+it is asking valid bandwidth
+above bandwidth there are 2 things
+check audio
+click on test
+same way check microphone
+i did
+somw of the discussions was not able to see
+hi
+Your video is still not visible
+Can u hear me ??
+it was visible earlier..but some technical fault it is showing..let me try to resolve it
+Can u hear me ??
+I can c u and hear u
+Ok... No problem
+HI
+There seems to be some problem in the Audio
+I can c u and hear u
+i can not hear you sir
+i can neither see nor hear you
+Hello Prof. Gowthami
+Hello sir
+Kindly share your mobile number
+9948189158
+tq  u sir
+Hello Madam
+I am not able listen your audio
+hai mam i am not able to connecting you
+madam,can you hear me
+hi
+welcome
+pls introduce urself
+Hello Ma'am
+I am Khushboo Pandey
+I am an assistant professor in RKGITM Ghaziabad
+hope u r doing well in this fdp
+publish ur video
+How can I publish my video
+I can hear u
+no mam
+probably there is some issue of NET speed frm ur side
+ok mam
+mobile NET will not work
+pls check ur band width
+ok mam
+i have given you whatsapp no
+we can chat thre also
+see the extreme left
+there is an icon of video
+click on it
+got it ma'm
+ye mam
+can u hear me
+ma'am you are audible to me
+this headphone will not work
+until u test in the begining while starting a view
+mam how can we mention creative common license on our video
+ma'am I am trying to use another headphone
+u will get it on internet and put the sign nand it means any one can use it
+its a free resource
+okk
+yes mam,so i have to mention it on web pages only
+plz wait ma'am
+I am trying
+no its about the resource you create
+ok mam
+Ma'am there is a faculty Ms. Pragya from our college
+she is also trying to contact you
+but today she has no laptop
+no ma'am
+ma'am how to creat a screencast
+hi
+hello maam
+welcome
+ma'am we are not getting proper audio from your side
+screen o matic
+mam please write:
+bandicom
+ok mam
+screen o matic works really well
+go through my youtube videos
+we came to know some software names in fdp lectures
+u will see it works well
+but there is no procedure how we can use them
+simply start recording
+with ur notes or presentation
+ok.. ma'am
+we will try
+i can hear you
+check ur audio settings pls
+i cant hear you
+i will help
+join me on whatsapp
+ma'am can pragya mam from rkgitm interact with you from my login
+yes
+or she should login from her is
+*id
+betterv to login frm her id
+ok mam
+ma'am
+there are several plougein
+but i dont know how can I use them
+is there any link or lecture series
+for this
+in wordpress
+hello mam..pragya here
+is there anything other than screencast that we have to do      Pragya
+hi
+pls publish ur video
+a view is not a screen cast software
+it s used for live interaction
+course journal on moodle?
+no in ur g drive
+ok
+how can we create course journal on google drive?
+is there any video regarding that
+yes u must hav done in week 1
+ok.. i got rememered
+Hi, GM
+hello
+please hand rise
+please hand rise
+so the question is blog is not visible?
+ok
+s sir
+when you add blog in webpage
+20.8.2017
+you will find update option at right corner of page
+i have added blog in my website
+https://sanjumahawar.wordpress.com/
+how to view others in my website blog what we added
+hi
+Deepti
+are u there?
+hello mam
+ya
+good noon
+good noon
+but i am unable to see you
+ya
+i dont know why
+u can ask me in chat
+whatever u want
+no issues mam i think its a trial and testing of A-View
+ok
+have you gone through the course module
+mam I think your vedio options have some problem
+yes i have gone through
+what are the assignments gien to you maam
+weekwise assignments were there
+ok
+you are from which state
+we have to listen to vedios and answer them
+maam
+ok
+I am from indore only
+ok
+which college
+Vaishnav College
+Vaishnav Management
+hi
+ok
+hi
+Are you from Computer Department at IPS
+are u there?
+are u there?
+no
+Management
+okay
+What is the progress till now
+I have done all my assignements and activites till date
+ok
+and score??
+except last week
+the average is 32% till date
+goood
+onle week activities are left
+is it good
+ok
+how many weeks are left
+?
+one week
+i suppose 8 quizes are left
+minimum score required is 50% at the end
+okay mam
+yes maam
+shall i leave
+ok maam in case any doubt you can call me on 9039635978
+okay
+thanks
+Hi
+YES
+I think u cant hear me
+Yes but not clear voice. Now Presenter vedio is not  running.
+hello ma
+I am connected with you
+madam we canhere you
+mam
+but you are not able to here me
+what can we do??
+hello
+r u thr?
+any query?
+yes maam
+i m there
+Sir
+may i join you in next week
+hello mam
+i have the answers of your question
+we are in onam vaccation till sept 13
+we are now ready mam
+right now i came to know that i have the time table has been changed
+can u spare ten minutes now
+n i have to engage the lect
+k
+sir please
+sir i connected to u
+mam you are not audible
+ok
+role of teacher in class
+ok
+ok
+reflection points
+higlited points
+camera not working
+sorry
+ok
+ok
+ok thankyou
+mam all the answers helped me.thanks
+please share the link of the sreen cast software.
+http://screencast-o-matic.com
+may i know the question sir
+hello madam
+naresh check your audio video settings
+ok mam
+mam can you see me now
+mam i have a question
+pl chat with me
+i belongs to computer sceince engineering
+and i want to develop some interactive animated videos fro student for describing concepts
+please suggest me some tools
+you can look into screen casto matic pro version which is paid.  There are many video editting tools, but its takes time.  but u can do
+ok madam
+are you facing any challenges with this FDP
+mam am i audiable and visible?
+yes mam..
+naresh can u hear me
+u are visible only mam
+Same here Naresh
+audio issues mam
+once again can chk your audio
+ok mam i am trying
+just follow the mentees pdf for aview interaction once
+ok
+hello
+madam i am requesting for interaction
+you are visible but not audible, your audio strength is very weak, try increase the volume on ur system
+Beshiba chk ur audio and video
+hello
+hi madam
+welcome
+good morning...how are you
+madam
+where r u from
+mam i am from coimbatore
+assistant professor, department of IT/CT, Hindusthan college of arts and sicence
+oh i am from guntur AP
+nice mam..
+how did you feel about this FDP
+do u have any queries feel free to ask mam
+i am feeling grateful mam. Learning a lot through this FDP. Just dedicating long time in learning is awesome
+i am from RVR&JC College of engineering
+how about you mam
+Asst. Prof  Department of MCA
+that's good
+last year i have completed this FDP
+this is really very useful
+i think u dont have video facility right?
+yes thats good mam
+i have questions related to screencast
+please ask mam
+i actually posted my screencast on the topic How to create a website in wordpress?
+in english and also in vernacular language -tamil
+i used screen o matic
+is it possible to make a video such that av plus narration
+if do what software should be used
+nice ,  screencast-o matic is best choice
+yes possible by using screencast
+yes
+but some distabncance is there
+yes mam
+ur voice is not clear
+some disturbances
+i tried
+is there any other doubts
+hello sir
+hi mam
+i am not having camera now
+ok sir
+no problem
+thank you mam
+go ahead with chat
+but i am having ear phobe and mic
+is it possible to talk with you mam
+i am able to see
+sir , in your interface cick hand rise symbol
+yes
+Please start your video before clicking the Handraise button
+this msg is coming mam
+i am able to hear you mam
+i think you are talking in telugu
+any problem mam
+why u removed your head phone mam
+talk with me mam
+i am able to hear u
+which college you are mam
+why you gone from the video, audio and chat
+If speakers are having problem, you can have your questions any time
+I will try to clarify or i will inform to the course team for the clarifications
+ok thank you sir
+Having any questions, please just type here
+ok sir
+or use can mail / whatsapp at any time
+deffenitely sir
+If possible, try to rectify speaker problem for the next session on 6th sept, if you want to interact
+ok k
+Hello
+Is your audio and video are working properly
+are tehre any queries / problems to be answered
+Please press hand raise button for interaction or just type your queries in chat or question section
+if you are having any difficulties or queries, type in the chat or question section.
+okay sir
+no vedio problem
+neha, u can start interacting
+hello
+hello sir
+ok
+i am available
+can you hear me
+i am unable to get your voice
+please check your audio connectivity
+at sharp 3pm
+hello
+this is uma from uce-dgl
+there
+interact
+is thr anythng whih u wnt to know?
+i am avaialble and able to see u
+r u able to see me
+no
+you publish ur video lefttop cornr
+i see u all
+ll i am audiable
+i can hear u
+no
+i too cant hear u
+We are S. Jayanthi, U. Fathima and B. Ajantha from SRNM College
+try to publish
+I m getting the messg dat u r not publishing the video
+i cant hear u
+i can hear i m just trying publishib
+sir
+ok
+sir,do u hear me
+sir
+sir pls publish ur video
+i cant hear u
+i can hear u
+u ask questions
+i hear u ll u ask questions
+i hear u all
+ok
+it was nice interacting with you mam
+ok neha
+mam now can i sign out or wait
+pls come on line once again
+Mr Sonu
+yes isr
+sir
+i hear more noise from your side
+i cant hear u
+i cn,t hear
+but there is no noise source in my side
+wait i ll come back to u ask query in chat
+maybe bandwidth issues
+yes
+u can answer my query here
+your question is to be other online moodle website
+yes ..online moodle plateform
+Wikispaces is the one which is commonly used by mant universities
+and which is better for technical course creation
+ok sir
+can i use iitbomabayx?
+u can't
+ok
+iit bonbayx is IIT Bombay domain network..
+iitbombayx is not a moodle ? did u mean that
+gnomio, moodle and wikispace are the commonly used online plaform...
+u can use wordpress also for your course
+okay sir thank you
+thank you sir
+i cant hear u
+wait
+similarly u can use drupal website too
+which one is better ?
+for technical course such as machine design
+my option is to be wordpress and wikispaces
+thanks a lot sir
+but problem is to be non core brach like us while we implementing we will face more difficulties
+can u hear me
+i can hear you
+no
+yes
+please use mic
+hello
+yet not audible
+hello sir
+can u hear my voice
+i hear u
+we r using desktop
+any problem in that
+no prob u talk
+let us consider I am techining CAD CAM, I have prepare my notes and if I upload,,,do I face the issue associated with plagarism
+We got your answer
+if quit nw , is any prob
+thanks
+its good to knw urs area CAD cAM
+i cant hear u
+wait
+ask queries in chat
+Mr sharma ji
+i hear more noise from your side
+r u in travel
+no
+sir
+i cant hear anthing
+did you join our whatsapp group
+no
+i aleady send the mail
+yop
+my mobile number is 9790088045
+sure  i will now
+this is my whatsapp number
+ok thankyou sir
+sir pls check the settings
+u bandwidth is weak
+Hello
+hii...start ur video
+video is started at my side
+u can ask questions on whatsapp also
+in moodle can we create our own account
+start your video
+u can create whatsapp group
+mam we are 7 faculties are here, did we need to login or we can whatsup our question /?
+so that we can chat regularly
+1. Khushbu Tikhe
+2. Swapna patil
+3.maheshwari Marne
+4. Shruti Patil
+try to check your video once again
+5. Aparna MAnjare
+so that i can see you all
+on right side there is video option
+click on it
+mam r you able to see all of us
+no i cant see u
+mam can i whats up you our screen shot?
+menka singh is also interected erlier
+sweta parkhedkar here
+start ur video
+ok
+hi mam
+hii please continue
+hello
+start your video
+i can see you
+no audio
+cant hear your audio
+you have put link of video there in wordpress
+you can use screencastomatic software
+no audio
+sir i am talking
+there is something prob with net
+sir I am ready now
+sir i am ready now
+screencastomatic
+cam studio
+for moodle...every participant have access to that so...mistakely somone deleted that one or removed one
+and for peer review process...you have to bevaluate the contents of other participants creations on the basis of given conditions
+cam studio
+screencastomatic
+use single font with variation in size
+use animations in the slide to make it effective
+use some assignment in slides in between session disscuss on that and move to next slides
+Thank You sir
+I'm feeling difficult while prepare ppt for theory subjects because it is becoming like just seeing the slides and reading it..
+insted of complete  sentences use points only
+when you come to that point then explain it briefly
+whenever possible add figure instead of theory and explai it...also add some animation to it
+Thank you sir...i'll try it defenitely.. Is there any tool or software to design innovative ppts sir?
+it will be first send to the other participants for peer review..after that based on points given by participants your assignments will be graded
+good evening
+can u come online
+any question
+???
+yes i am online
+what are new innovations techniques in teaching learning process sir
+Learning by doing activity  is very useful . it is a ice breaking system
+you can create one website with one email login
+hello
+hello
+please start your AV
+good morning sir
+good morning
+wait for 5 mon sir our all retrofits are nit ready
+ok
+sir can you see us?
+no
+you have not started your AV
+click on Green triangle at the TOP
+left side
+i am not getting your audio
+please check your audio
+Are you able to hear me?
+Start your AV
+Please start your AV
+Start your AV
+Please start your AV
+you are not audible
+Don't worry. Take you time.
+hi
+maam
+hell Sir
+hello sir
+plz start the web cam
+sorry sir its not working properly
+ok
+plz select the video wall
+ya I have
+select the first video option
+in left corner
+from where?
+ok
+sorry sir Internet issue
+ok
+please ask the question
+Sir I have already written..
+I want to know  how can we use this utility to interact with  my students?
+there is a software named screen cast
+ya I know
+you can use that software for creation of lecture
+there is a website called wordpress
+Iya that I know but I m asking abt this A-View utility
+That also I know use for creation of website
+A view is for face to face interaction
+can we use this for my students studying in mycollege
+virtual classroom can be created through this
+for taking lectures
+solving queries
+ya but now we are using IITB server
+If I want to apply this to my college then what?
+independently we can not use this maam
+bcoz this Aview is used by using IIT server
+ok
+that means it is only for IITB courses
+yes maam
+no one is having authority except IIT
+we are only using the platform
+for FDP
+ok thank you sir for the information .and sorry I have to leave for my Class
+you are from which institute maam
+What is your problem?
+ok
+I m from Polytechnic college balaghat
+hi
+maam
+r u there
+its good to interact
+yes
+soorry log in delayed
+course is good
+but i am learner in ICT
+please publish the video output maam
+HOW
+PLS GUIDE SIR
+plz click on video
+in left corner
+I HAVE NO CAM IN LAPTOP SIR
+ok maam
+no isue
+OK CLICKING
+hi sir
+sir,voice isnot coming
+yes sir
+we can see you only
+sir refresh the page
+sir I am leaving
+due to my lecture
+ok sir
+hello
+hi maam
+are u having any query regarding FDP
+hello sir
+power off ho gaya tha
+its ok now
+ok
+what to do task?
+u r from iit bombay?
+no maam
+no question sir about fdp
+I am from IPS academy Indore
+its good initiative for teachers like us in chemistry
+and maam u r from which institute
+hi
+maam
+sirvoiceis not audible
+yes maam
+we can chat
+shouldi ask u query onwhats appgroup
+in this chat also u can ask query maam
+Sir thank  u I will uninstall that software
+and again reinstallthank u sir
+yes maam
+any other query??
+regarding FDP
+and secondly can I prepare excel spreadsheet ratherthan office calc
+BYE SIR GOODDAY
+AND THANK U AGAIN
+good day
+ok maam
+hi
+maam
+voice of others are audible
+sir am i audible
+no maam
+not audible
+maam u can ask me your query in this chat also
+my basicproblem is relatedwith screencasting. I amnotknowing how and what ntask we have toperformexactly.
+ok
+we have to capture video lecture through this software
+then we can share those lecture with students
+which softwareespecially we have to select and should wemakethevideoofclassroom video
+Screen o matic
+software
+after selectingthiswhat wehave to do
+we have to record the screen
+how sir
+have you downloded the software
+no
+i will do it now
+please download maam
+ok sir thanks if i will not be able to do I will ask to you on whats app group. Thankls a lot once again.
+ok maam
+after downloading the software plz install it
+then record the lecture in laptop
+this is one video lecture creted by me for my students
+https://www.youtube.com/watch?v=SsdENbvVJEY
+plz go through the link
+hi
+sumit sir
+yessir
+iamnot able tosee you
+youare off screen
+i can see you
+sir
+I am DR sumit Bhatiya
+but you are not on screen
+plz  click video wall sir
+sir u can ask me on this chat also
+nosir
+thanks a lot
+ok sir
+thanks
+i will be in touch with you on whatsapp thank you sir
+hi
+sir
+your voice is not audible
+sir thereisaprob in mic
+yes sir
+u can ask me question in chat also
+sir here is somefaculty in waiting i m logging out
+thank you
+ok
+hi
+sir
+hellosir
+my questionregarding
+Please ask your question ??
+unable to understand screen cast o matic
+screen cast o matic is an application s/w
+which is used to create videos
+probleme in downloading
+u can create n deliver video lectures
+ok
+is vedio lecture may technical or related to ICT
+there is an issue of internet access firewall in IPS Academy
+:_)
+:-)
+OK  Sir thanks....
+it is like creating channel on youtube... of video series...... of subject
+ok sir
+hello sir
+r u tere
+hello sir
+r u there
+hello sir
+start your video
+Hello sir
+I am Mr. Shrikant Karanjkar from RIT, Islampur
+click on video icon which is  left hand corner at top
+hv u heard our cohort coversatation
+heool sir
+hello madam
+r u there
+pls start your video
+Yes sir, I will try for it.
+yes sir
+audio was missing
+sir i can here you
+can you answer my question
+hv u checked your audio video setting
+Yes sir I am doing it
+yes u ask your query here
+hv u heard the previous conversation of our cohort
+hello sir
+pls start your video
+Dear Sir , I have a question, whether it is possible to use a-view interaction for students when students are not phisically present in the classroom?
+student no need to be present in class this interaction is online he can participate from anywhere.
+OK sir.
+hv you heard our cohort conversation
+Yes sir
+hello sir
+start ur video
+Hello sir, I am Prof. Madhav Tilve from RIT Rajaramnagar
+clic on video icon left hand corner
+then click on start
+I will facing the problem of connections
+do u want to ask any query?
+ok try ur best
+SIr, we are able to take assignment test by using moodle software ?
+online quiz can be conducted on moodle
+assignment can be submitted on moodle and peer review technic can be used for evalutation.
+but yo need to design prpoer rubric
+OK sir.
+Thank you sir
+hello sir
+r u thre
+hiii
+?????
+hello
+can u listen me
+audio is missing
+i can listen u
+am i auidiable
+yes
+do u hv any query ask me here i ll answer
+i feel there is audio problem from my side
+i will type
+i can see ur text communication
+yes u ask here query
+ok
+can u give certain tips for webpage creation using webpress
+i am finding many problems in it
+i can listen u please speak
+ok
+can u repeat name please
+9404590909
+ok
+9970701770
+ok nice thank you sir i ll send younlink here
+or minwhile you can search on discussion forum
+ok
+by name payal
+hello ur audio is missing
+u ask your query here
+I am jyoti yadav
+unable to access through my log in so using my colleagues log in
+ok nice
+Swati pusawale's access now i'm using
+yes madam proceed
+please
+I want to know how we use ICT for subjects like data warehousing , enterprise resource planning for management studies
+is open source softwares available for ERP to teach
+as u are from etc can u explain ur experience how u have used webpress/screen cast in teaching learing process
+is it ok
+hv u heard the answer
+thank you sir
+for which point u have used
+your voice breaks
+you mail screenshot of login failur to the mail id from which u received log in credentials
+I am already sending mail to iitb & you too
+what can I do sir now
+rit
+yes
+can u send me details so that i can go through it
+can see you
+umesh.kamerikar@ritindia.edu
+ok
+thank you sir
+nice discussion
+my mail id is jyoti.yadav@ritindia.edu
+ok thank you mam
+Have a great day ahead sir
+ok ple send screenshot
+thank you sir
+bye
+hello sir
+hello sir
+check ur video
+start ur video
+sir, while logging in to A-VIEW programms shut down evrery time
+i was trying from 1PM now I am able to log in
+ok proceed
+now
+click on video
+nice a view interaction experience
+hello sir r u from?
+whch college
+sir i have started video Am i audible at your end
+I am from RIT Islampur
+is it ok sir
+yes sir thank you
+actually ur audio was breaking
+sir actually its bandwidth problem from my side, My bandwidth is exact 2mbps
+ok bus nice tnteraction
+nice to here yo
+you
+Thank you sir It was nice to interacting with you.
+Good morning ,
+Your video is not available.Please click the video button at left top for publishing video.
+good morning ,you video is not publishing
+video is not puublishing
+madam you video is nor visible,pl check you settings by clicking the icon at right top looking like a pair of gearrs.
+gears
+no video and audio
+your screen looking black.
+my video is not seen to me too
+hello
+have youu done the setting?
+youvideo not clear ,pl go to your settings icon and click.
+i can hear
+have you done the setting?
+i have done setting
+Do I have to connect external mike?
+yes the mike and ear phone which youu use with mobile can bbe connected
+my mike settings show green when i speak
+in the settings select the microphone which youu have connected
+hello sir
+is my video visible to you
+i have selected default device inbuilt mike
+checking
+video not seen
+check settings by clicking top right cornrer icon
+both video and audio not available
+ok sir. i l check the setting.
+please check the setting by clicking setting icon at right top corner
+i cant hear your voice sir
+sir,the video and audio are not available. go to your settings and do the stting for streaming audio vide
+video
+I am getting your audio and Video
+please try your settings
+right top corner there is an icon looking like a gear
+if u click you can see a number of menu options
+in audio video select streaming option as both audio and vieo
+band width has to be 128
+Your video screen was available and showing video stopped.if you press on start button,it should be available
+SIR my problem is webcamera not working with AView
+working otherwise
+ok
+even the same problem with audio
+anyway I am logging in just to check if any significant questions are being answered
+as I am in a position to hear you
+Why dont u contact somebody in your institute to solve the problem ? many were online with bot video and audio
+sir,
+Hello sir
+I have completed screen cast
+audio and video not available.go to set up and see if any setting is improper
+but there was problem with audio
+hi
+ok sir
+ok sir, I will try
+your adio and video are not available here
+check your set up by clicking set up icon at top left corner
+thanks.Bye
+thanks.Bye
+i check sir there all option
+you can see the desk ttop that i am sharing
+ok sir
+select the right camera option available on the lap top
+band width 128
+select the microphe that you have connected to your lap top
+the headst
+head set
+save
+thanks ,bye
+thanks ,bye
+thanks ,bye
+i think sir there is some technical issue i m not very much comfotrable with this software i will ask tommorow my collegue for help
+ok
+thank you sir for sparing time
+post r question in chat sir
+We had already posted  course JNL through Google doc link. Now what additional things you suggest as new RCA submission
+can you hear me mam?
+check audio video once madam
+post your questionhere madam
+i have doubt in RCA 2
+yes madam
+tell me
+can you hear
+I CAN HEAR YOU
+Tell me what we are supposed to do for RCA2/
+Sir, just explain .I can hear you
+Is it in our subject.
+Thank you Pradeep
+Hi mam
+did u check audio video test madam
+i jst did it sir
+lets chk
+if it works
+no not yet
+it shud be done
+Thank yoiu Sir for your valuable time
+hi
+hi
+hi sir am sarika
+there is network problem here.
+Ohkk
+ur mobile No. Prof. Sarika
+I can add u in whats app group and there all of us can interact.
+8156912084
+do u have a whats app profile ?
+YES
+Ohkkk .... Let me try
+Please share your video from Video sharing buttton on top
+can not c u in whats app
+sir my net device is not working here .i am in my husband 's home . working on sharing my internet from mobile
+no issue... I hope the speed is 2 mbps. coz that is minimum requirement
+If not, then u can leave the video sharing as it will not work properly
+Also, please send me a message (whatsapp) on my no. 08987479515 as I could not locate u in whats app
+got it
+ok thank you sir.
+adding
+done
+odone sir
+done sir
+Hi
+Hi, I can not c u nor can I hear ur audio.
+Cant hear you voice
+will call you on video whatsapp
+you should be able to see me now Prof P S
+yes i c u
+yes
+i can hear you
+i c u and hear u
+i hear you
+shall i call you on whatsapp
+hello madam
+hello sir
+madam pl start ur video
+ur audio is missing
+i am not able to see u r ideo
+u can ask ur query here
+sir I cannot hear you
+ok Sir
+ur audio is not clear
+can  uuse an of these technology n ur classroom session
+Sir you know our University is located in remote area and sometimes Internet is down here for 3-4 days how can shall e overcome such kind of challenges to benefit oue students
+any
+u pls ask ur query in chat
+there are some issues in audio
+I am from Computer Dept , Dr. BATU
+hello sir
+good afternoon
+pl ask ur query in chat window
+now i can see u and hear u
+hello
+hello mam
+pl go ahead with ur query
+I used screen cast o matic for my screen cast but I can prepare a screen cast for only 15 min in ts free trial what are other option available for more time recording
+I have some problem with kazam hen  install it on ubntu
+at last i hae to use wndow
+screen o matc
+atlast
+we have used screen o matic
+its effective
+yes i used it
+it s really good
+ok mam
+hello madam
+pls start ur video click on left hand corner icon of video and then start
+mam pl introduce urself
+pl ask u query
+how is ur experience of this FDP
+hello sir....good afternoon
+it is avery nice experience
+but some where dealing with advance functions of moodles....i am little bit confused
+though basic s are good to learn
+which advancr functions
+pl name a few
+mam pl click on video option left hand side top corner
+good afternoon mam
+pl start ur video
+Good Afternoon Sir!!!
+Yes i am trying to connect video...but i think i am having some connectivity problem
+no issue
+u can use chat window
+ok Sir!
+mam u can click on video buttton located at top of the screen on left side
+Sir, tumache sarv bolane amhala eku yet aahe......Sonali Chaudhari
+ok thank u mam
+gm
+post your question?
+Hell
+Hello Sir
+How r you
+your video is not visible
+i am well
+Yaa...I am trying to rectify the problem
+ok
+Sir am I audible to you
+Happy Teachers day
+no
+Sir am I audible to you
+thank you
+same to you
+Sir am I audible to you now?
+no
+you r not visible n audible
+Sir...I don't know why both Audio/video devices are not working?
+no problem
+Can I do interaction through chat only
+if you have any question you can ask?
+what ia Assimilation Quiz actually?
+ok authors explaination about topic
+Thanks OK
+Thanks & Good Daya
+Once again Happy Teachers Day
+ok
+hllo
+If you want to talk
+hi
+your video in not visible?
+kindly bear for few min sir. Technical staff supporting me in video issue
+ok
+your video in not visible
+hi sir
+now i can see you
+your voice is not audible
+i think i m not getting voice due to i dont know technical error
+but no problem
+i r marked as present today
+Question from R.Mothi: How to create additional modules (panels) in wordpress
+you*
+R mothi?
+for other participants (R.MOTHI, G.GAYATHRI, D.CHITRA) are also available along with me
+ok
+my name is Sivanantham
+you can see all of them in the video
+let me note down the name of presentee
+Question from D.Chitra: " How to attach the journal publication link in wordpress website " created by me
+Presentees are "A.Sivanantham, R.Mothi,D.Chitra, G.Gayathri"
+due to login limitation we will login one bye one. Now i am quiting by sivanantham
+please ask q?
+lakhmi mam
+your voice n video is clear
+i getting
+but your voice not audible sir,
+but i think due to technical error my voice
+you are not getting
+Kindly share your experience on using ict tools
+no problem mam
+answer of your question is
+at the same time i dealing with 3-4 mentees
+so please
+give me a minute
+ok sir
+am*
+their are lots of teaching methods
+and one of them is think pair share method
+learning method
+with the help of these tools you can create notes video lectures
+hi
+question is regarding wordpress?
+no sir, how to use think pair share method for problematic subjects
+at the same time i am dealing with 2-3 mentees so plz coordinate
+ok sir.
+can you hear my voice
+no sir
+ok technical issue
+problematic subject?
+now we hear
+can you give title of any
+signals and system
+digital electronics
+ok
+circuit theory
+you can create ppts, assignment, n post it on site
+videos
+ok sir
+cannot har you
+your audio is not coming
+I am able to here you
+hi
+u r not visible
+hi
+you r not visible?
+hello
+hi
+u r not visible
+hi
+connect ur audio and video properly pls
+hello
+Interact after class sir
+do u hear me mam
+yes mam
+i can hear your voice mam
+mam do ui hear me
+i cant hear you
+may be internet problem from my side
+i will wait mam.
+if you want to interact pleas  interact through chat
+ok sure mam
+I need to teach in lab . 2 labs in diff venue. what tool can i have for sharing my white board mam
+you should have web cam
+to come live
+iam nline sir
+Are u having web cam to come live
+sorry mam
+i am unable to hear you
+ok mam
+hello sir
+you should  have web cam
+good morning mam
+yes sir
+r u getting y voice sir
+no
+here i am not getting voice button in chat window its visible only to u and ramesh sir
+ur echo test is active
+inactive it
+yes
+starr video
+starr
+do u hear me sir
+can you hear me
+yes
+go ahead
+i am able to hear u
+but i am unable to hear you
+what shall i do sir
+get good headphones with microphone from C Srinivas Sir
+raise questions in chat
+Go ahead with the question Sir
+I cam hear you Sir
+i am hearing
+i can hear you
+Yes Go ahead
+Yes Sir
+go ahead
+go ahead
+I can hear you
+i cam hear you
+go head
+Please Inactive Echo Test option Sir
+O can see the login
+k
+yes Sir,
+Web cam  is there
+Madam go ahead with the question in chat
+yes sir
+i can  hear you  Madam
+Sir Please type in Chat
+Sir ,i can hear you
+hello
+hi
+there
+i cant c u
+download team viewer
+hello
+r u online
+hi mam
+yes mam
+any qury
+start your audio
+is it necessary to make video using screencast
+i have made my channel on youtube
+no problem
+u will learn
+i have uploaded my video link on webpress
+wordpress
+yes wordpress
+typing mistake
+u can take your topic  & addyour notes ppt q bank on worpress
+ok
+ok
+any other qury
+no mam
+hello
+kajal madam
+Hi Ma'am
+/query
+We canot hear you Ma'am
+sure Ma'am
+ican hear u
+pls text
+I couldn't make my screencast properly in Camstudio. There was a lot of noise
+Could you suggest a different software, the best one out of the  list whch will help
+screen casto matic is easy
+i have done in it
+Okay. Oh great!
+Th software is easily available?
+hi mam
+noise problem  u can stop your fan n record in closed room
+software is available
+yes Ma'am I tried that also, but stil didnt help :(
+hi
+ok bye
+I have a probe
+Okay, I'll try again. Thans a lot  maam
+problem to deal with wordpress
+can u help me for that
+???
+I am not able to add page in that
+wordpress u can create tag
+its a assignment given by course instructtor
+i have already made my blog
+there is option toadd page
+but now i want to add page & main menu in that
+yes u can add
+ok
+ok
+can u please tell me which menu n where it is located?
+to add page
+thanks mam,im logging off
+please wait iam just solving another centers problem
+please wait iam just solving another centers problem
+okay
+teamviewer password please
+I am at Anna University -Sameer
+I am here
+-Samee
+Ok
+I will start off now. With a poll
+OK
+Cannot see the poll results
+click on video wall button
+Can you take me on? I can explain the policy
+make JKs screen bigger
+i have 2 points to say, before signing off
+I have two points to say from RC1228
+on right hand side top there is option to alloy download
+Click on Video wall
+Prof. Kannan is present at RC1240
+Please play the video again.
+video and audio intrupted
+We have 3 questions. please allow us to interact.
+please answer our question
+Please switch on the AV
+only audio is there.
+can I interact
+yes
+only audio is naot taking
+you you are facing problem, we can interact via whatsapp
+no problem
+can you explain
+google cloud
+moodle
+sure
+again
+yes
+ok
+ok
+yes
+ok
+ok
+can choices change (4 out off 6)
+at a time only 4 choices
+only 4 choices visible including currect one
+correct
+yes
+you can also increase number of choices
+Thanks !
+this is not a mentor mentee class
+just tested
+hello sir
+hello
+i am tring to connet through video, it seems that there is network  problem
+just wait i ll start video
+ok
+Hello Sir,
+Not able to see your video
+But sir i can c ur videa
+we have made teamn of four for OER
+ok i got your team details
+all from chemistry ?
+Our topic is Energy which we have for First year Engg ]Applied Chemistry
+Yes sir all are from Chemistry backgroungd
+ok.did you inform eoutreach about members in team
+yes sir we have filled survey form yesterday
+did they permit you /
+i mean did they give you any reply
+no reply we recieved yet
+ok
+sir,neither audible nor visible
+so sir can we proceed with our topic
+yes
+hope there is no topic duplication
+how do we confirm this?
+no one else in same domain
+e outreach will confirm
+shall we wait for confirmation mail from e-outreach
+when can we expect the confirmation
+you can start your resource preparation work,team meetings ,discuss method of communication in team etc
+from iit bombay x you will get sufficient gguidance for OER
+i can also share my OER document
+hello sir
+can u start ur video pls
+??
+please do share sir sir, it will be helpful
+yes I have started it
+ok
+you are visible to me
+go left top corner
+clk on video
+and start
+u r not visile
+From  what background ie. domain you belog from.
+hello sir
+u r not visible
+is it visible now sir?
+is it visible now sir?
+not yet
+u r not visible
+My questionis whwther we have to creat full course material of OER? or is it partial. Upto what extent we have to co
+no need to create full course material
+partial soon iitb will give u reference exmple for tht or u can refer mentors report
+if you have any queries please mail me or chat on whatsapp.
+My question is Here when we discuss about the comparison of conventional and flipped classroom then is there consideration of student regularity or IQ? BCZ very few students do regular study.
+you are not visible sir
+hello sir
+pls start ur video
+sir are youu sitting on a PC?
+u r not visible
+u r audio is missing
+background noise is present
+ur audio not clear
+check audio and video
+video is not published
+check audio video
+video is not published
+voice isbreaking
+Shall i logoff and login again?
+no audio
+can u hear mine
+not now..
+now ?
+yes
+my voice
+ur voiceis audible
+Too much delay and the signal is breaking
+ur voice is audible
+what is the problem
+Too much delay in the conversation
+?
+am i audible
+No
+I rushed home to be here
+my voice??not audible?
+not loud
+OER is a complete course pack
+week 3 not there till 3.00pm today
+by tommrrow
+course wrt domain only u can
+OER is regarding the course in our domain?
+yes preferably in ur domain
+since u r expert in it
+Ok. Then it will be more interesting
+yes
+detailed instructions will be givem by JK by week 3
+may be tommrrow
+can we see the other teams topics?
+abut the content and platform
+OK
+yes if they share in grp
+if you want our cohort topics then I can share that google form excel sheet
+Hmm, As a mentor are you going to share?
+yes if you want
+Ihave compiled document
+Yes. Just curious to learn varieties
+Thank you
+sure madam
+once I get form all den I vl send
+So fast we are moving to the last week...
+yes
+we have one more f2f intersction on 7-8
+These 6 weeks one of the best learning happened in my life
+ohh nice to hear madam
+All credits to you and your team, BMSCE and IITBombay , Special thanks to JK
+thank you madam
+Audio not there ..
+I think audio problem is there in my system
+Had NBA  meeting and it started raining ..I reached home  5.00..and immediattely i used A view
+good dedication
+It is ok. I will log off.. Have to upload TPS still
+ppl shud get inspired by u
+ok fine madam
+I am learning still ...
+yes madam we are all in learning process
+Yes. Shall I log off? Thank you and Bye
+I can hear
+no volume
+very feeble
+yes madam
+u can log off
+OK thank you
+hi Saraswathi
+hi
+can u see me?
+Hello sir, What is OER survey , i have missed that.
+No sir,
+ok
+I didn't see you sir.It shows audio muted.
+Saraswathi I can see you My web camera not working I dont knnow why...
+Your question is OER
+yes sir.
+ok sir. no problem.
+Open Eduction Resources is freely available content to students
+you can create text video
+I have missed that task.So i have to know the benefits of OER.
+yes
+also saraswathi start discussion on cohort 101 and fourm
+ok thank you
+hi
+ur voice not audiable
+not audiable wait
+ur mble number
+9159445412
+9505758154.. its my contact
+sir your video is not visible
+yes
+something wrong from my side
+camera not working
+ok sir
+ask your doubt
+if any
+hello vipin sir
+i ur topic video not available on nptel
+better u create ur video for FC activity same can be utilised for OER
+IF UR OER TOPIC IS SAME
+u can use youtbe creative commons video for ur FC activity
+hello sir
+do u hv any query
+HELLO
+YES
+hv u submitted rca01?
+How we will get URL links for trimmed videos?
+What about liscense?
+w
+from where u r taking videos
+nptel
+u can have same url for all trimmed videos
+u provide url of orignal video link
+ok
+Last Date Of Submission Of RCA 02 5th October or 08th October?
+hv u download flipped classroom constructor ppt
+05 th
+and for review 08
+yes sir i have downloaded
+ok nice
+why ur audio is missing?
+last time also it was missing
+I have submitted RCA 01 but got o1 mark
+hv u checked audio video setting
+tred hard but problem ot detected
+yes
+big noise is comming
+all tests are ok
+same with me
+which is ur RC?
+1197 GHRIET PUNE
+OK
+Thank you sir
+i hv lab session
+i ll call u later
+ok
+thanks
+bye
+we sumi ,asha and myself joining from lourdes matha college trivandrum
+bye
+Please share the video..
+ok
+here?
+https://www.youtube.com/watch?v=_K0IgSOOwVs
+will that link help?
+ok
+any query
+For any query please send me a mail at sanjaysaxena.cdac@gmail.com
+Please try to follow deadlines.
+You can see my wordpress URL
+Sir should we specify the exact topic which we have selected for preparing OER ?
+Will there be any issue if any other group is also choosing same topic ?
+Take care of copy right issue
+https://sanjaysaxenacdacblog.wordpress.com/about/
+Ok Sir thanks
+OER shoud be unique.
+See my samples for PHP and MYSQL
+IIT Bombay deadlines are critical always
+Nobody can change these deadlines.
+Sir we are engaged in a work related to an exhibition hosted by our College. So please excuse us.
+Try to complete your assignments before deadlines.
+Sure sir
+We will contact you viae-mail in case of any queries
+Ok
+Thanks Sir
+hello sir
+Any other query
+is my video visible
+yes sir.
+now i am able to hear your voice
+am i audible madam
+yes sir
+i am unable to hear or view video
+from your side
+i am able to hear youtr voice sir.
+Are you getting my voice sir
+am i audible
+no
+In OER we have to prepare content ok
+then we have to publish it as our own resource
+sir i think my voice is not getting
+i can see as volume less in audio please check
+in voice connection it is showing less value in my system
+i kept it as full only sir
+Madam, am i audible
+yes sir
+Yes Sir
+we can prepare RC2
+and the Topic OER can be prepared
+OER is eloborate
+with more content
+i am online
+am i audible sir
+good Afternoon SiR
+am i audible Sir
+Yes Madam
+Am I audible
+Please Post question in Chat ,Madam
+Did i clarify the OER ,Madam
+Sir
+I can hear your voice if I cut my audio
+Please check audio settings Sir
+Please Check the sudio Settings and enable it Sir
+Edmodo, Moodle, Schoology, Blackboard, and Google Classroom
+6 sections must be there in oer creation...but 6th one is optional
+k sir
+go through the week 3 video OER Assignment: How?
+is copy right compulsary for word press
+is the copy right compulsary for flipped class room
+week3
+if you are uploading something on wordpress which is not having cc 4.0 license then you must get the rights from concern facility or authority and then upload it on wordpress.....if it's with cc 4.0 license then you can upload it and use it freely
+k thank you sir
+k
+no audio sir
+no audio sir
+Anna university can you hear me
+hello
+i wanted to test with you
+no
+as shridhar sir is going to present from your institute
+yes sir
+please move away from your speakers it is causing disturbance
+you are not audible
+no audio sir
+now ok
+we can hear you go ahead and ask your q
+audio is unclear sir
+Hi. I've reached
+Jk
+JK if audio is poor leave it, ask them to post in chat, just tell them will come back to you
+Ok
+Not able to hear
+microphone is not working
+restart your AV
+restart AV
+agin the same problem
+you use diffrerent sound setting
+No audio
+hi, let's start
+without audio
+can you write something on the whiteboard?
+https://wikispaces.com/join/7RQ3JX3
+hi
+start AV
+HI
+Start AV
+I am having a meeting, will have to leave, if you have any quer then please whatsapp
+thank you all
+hello
+Even in new headset I am not able connect with a-view
+madam ,the audio video not available
+madam ,i think there is a bandwidth problem.I cant see video
+ok
+128 bandwidth is there
+128kbps
+will work
+It can be this side .i amusing a jio connection
+you can ask your queries on chat
+i checked everything is ok audio video
+from my side
+sir i have question regarding OER
+yah i checked it is greater than 3 MBPs
+jst chked
+Thhe minimum required is 2 MBPS
+ok ask
+this side has problem
+ok sir
+ask your question on chat
+SIr Exactly in OER the last option was given that we can make presentation and share
+so can we prepare PPT and share it wilth students is valid OER
+?
+I want to know what is expectation from oER
+but how the share will be available to the peer for assessment?
+your audio as well as video is coming
+voice break
+your voice is breaking sir
+yes sir
+i m on whatsup
+9920424885
+can u pl add me sir
+ok sir undersood
+thank you so much sir
+you can take any one topic and give a complete learning package
+bye sir
+ok sir
+can you call me on whatsapp
+sir can you pl share ur no.
+9869081574
+hello sir
+u audio missing
+hello
+hello sir
+What information we have to provide under teaching subject page created in wiki spaces.
+no video from youe side
+the subject names that u r teaching
+Ur audio is mute
+hello madam
+no audio
+sorry sir we have some problm with our audio setting...may i ask the question here?
+if its possible please respond sir
+Good mrng sir
+hello
