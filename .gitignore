@@ -4,7 +4,9 @@ Videos/
 myenv/
 question-pairs-dataset/
 positive-and-negative-sentences/
+deepsegment_eng_v1/
 
 # files to ignore
 .DS_Store
+embedding_dict.pkl
 glove.twitter.27B.100d.txt
