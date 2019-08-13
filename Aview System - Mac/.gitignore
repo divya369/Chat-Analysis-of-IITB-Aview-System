@@ -1,0 +1,7 @@
+Datasets/glove.twitter.27B.100d.txt
+deepspegment_eng_v1/deepsegment_eng_v1/model.weights/.meta
+deepspegment_eng_v1/deepsegment_eng_v1/model.weights/.data-00000-of-00001
+deepspegment_eng_v1/deepsegment_eng_v1/trimmed_glove.npz
+obj/embedding_dict.pkl
+static/audio.wav
+~                                                                
